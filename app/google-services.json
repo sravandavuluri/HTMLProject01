@@ -1,0 +1,327 @@
+{
+  "project_info": {
+    "project_number": "347645144156",
+    "firebase_url": "https://trackmychild-6afaa.firebaseio.com",
+    "project_id": "trackmychild-6afaa",
+    "storage_bucket": "trackmychild-6afaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347645144156:android:a465d83d065c9078",
+        "android_client_info": {
+          "package_name": "com.auza.atpl0003.TrackMyChild1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347645144156-btvbk6b8u6nvmg9eqethsj26b22slfs6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.auza.atpl0003.TrackMyChild1",
+            "certificate_hash": "14951a4a0bc76b2499897f2b30f806809b3f3a38"
+          }
+        },
+        {
+          "client_id": "347645144156-m3ph52h6g7ec1oqujh4fpha9l1h93e1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhrQhhSPly93p5_6cAIsQ73dYFzxfnaNI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347645144156-m3ph52h6g7ec1oqujh4fpha9l1h93e1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347645144156:android:e66d542b8f680b2b",
+        "android_client_info": {
+          "package_name": "com.example.hp.trackmychild"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347645144156-khct6qsedmmc9nqtlks5djj95hm9s41g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.trackmychild",
+            "certificate_hash": "40c70f481b1b5617e1795e88fba8b4b5fcec66bb"
+          }
+        },
+        {
+          "client_id": "347645144156-m3ph52h6g7ec1oqujh4fpha9l1h93e1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhrQhhSPly93p5_6cAIsQ73dYFzxfnaNI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347645144156-m3ph52h6g7ec1oqujh4fpha9l1h93e1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347645144156:android:b5599a8062cdeaf2",
+        "android_client_info": {
+          "package_name": "com.google.transporttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347645144156-5ivqangrumqobqp7l24kov3a55i2115k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.transporttracker",
+            "certificate_hash": "46c5807e2866cd9a491ab7ec0f1788e331494b53"
+          }
+        },
+        {
+          "client_id": "347645144156-m3ph52h6g7ec1oqujh4fpha9l1h93e1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhrQhhSPly93p5_6cAIsQ73dYFzxfnaNI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347645144156-m3ph52h6g7ec1oqujh4fpha9l1h93e1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347645144156:android:d842af33038fad5c",
+        "android_client_info": {
+          "package_name": "info.androidhive.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347645144156-s3rd83b4nkfvr5cvo1uu0rmeabnfchmt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.androidhive.firebase",
+            "certificate_hash": "46c5807e2866cd9a491ab7ec0f1788e331494b53"
+          }
+        },
+        {
+          "client_id": "347645144156-m3ph52h6g7ec1oqujh4fpha9l1h93e1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhrQhhSPly93p5_6cAIsQ73dYFzxfnaNI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347645144156-m3ph52h6g7ec1oqujh4fpha9l1h93e1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347645144156:android:8c34048992f57635",
+        "android_client_info": {
+          "package_name": "info.androidhive.navigationdrawer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347645144156-er3t4u3qsuafqetbljcrmc5e94mfsffg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.androidhive.navigationdrawer",
+            "certificate_hash": "14951a4a0bc76b2499897f2b30f806809b3f3a38"
+          }
+        },
+        {
+          "client_id": "347645144156-m3ph52h6g7ec1oqujh4fpha9l1h93e1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhrQhhSPly93p5_6cAIsQ73dYFzxfnaNI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347645144156-m3ph52h6g7ec1oqujh4fpha9l1h93e1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347645144156:android:f5d0758050aea5fa",
+        "android_client_info": {
+          "package_name": "loctall.com.childtracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347645144156-igch2latcnvvrjuk9tbdferjur9vq39a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "loctall.com.childtracking",
+            "certificate_hash": "14951a4a0bc76b2499897f2b30f806809b3f3a38"
+          }
+        },
+        {
+          "client_id": "347645144156-4ng7b4pabr03ru2a7v2kp3ctmmugpffa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "loctall.com.childtracking",
+            "certificate_hash": "46c5807e2866cd9a491ab7ec0f1788e331494b53"
+          }
+        },
+        {
+          "client_id": "347645144156-m3ph52h6g7ec1oqujh4fpha9l1h93e1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhrQhhSPly93p5_6cAIsQ73dYFzxfnaNI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347645144156-m3ph52h6g7ec1oqujh4fpha9l1h93e1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347645144156:android:ba529b0ca7dd0793",
+        "android_client_info": {
+          "package_name": "tsf.com.trackmychild"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347645144156-j950l5l4tvahp364kgk2alm3ror6qnee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tsf.com.trackmychild",
+            "certificate_hash": "46c5807e2866cd9a491ab7ec0f1788e331494b53"
+          }
+        },
+        {
+          "client_id": "347645144156-m3ph52h6g7ec1oqujh4fpha9l1h93e1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhrQhhSPly93p5_6cAIsQ73dYFzxfnaNI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347645144156-m3ph52h6g7ec1oqujh4fpha9l1h93e1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
